@@ -1,0 +1,9 @@
+Run Summary:
+=====================
+Flow type: diagonal_gaussian
+Total epochs (specified): 120
+Epochs completed (finished): 120
+Patience: 7
+Batch size: 32
+Test loss: -3.616880
+Training time (minutes): 121.1020
